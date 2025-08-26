@@ -16,3 +16,9 @@
 ## 📖 学习记录
 
 - [AIGC Day1 - 文案实例与角色设计](./AIGC_day1.md)
+- [Magnific](https://magnific.ai/)
+- [krea](https://www.krea.ai/) 
+- [可灵AI](https://app.klingai.com/cn/)
+- [Runway](https://runwayml.com/)
+- [海螺AI](https://hailuoai.com/)
+- [视频去水印](https://soundviewai.com/home)
